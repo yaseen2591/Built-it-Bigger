@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294455940111",
+    "firebase_url": "https://build-it-bigger-6b9bc.firebaseio.com",
+    "project_id": "build-it-bigger-6b9bc",
+    "storage_bucket": "build-it-bigger-6b9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294455940111:android:9f736eb9fc1e1319",
+        "android_client_info": {
+          "package_name": "com.udacity.gradle.builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294455940111-femm790t6al8lua85oggfov5k1lh7is9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKGavOCWml13VGeQidH3IRxw3kqBzMcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
